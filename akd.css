@@ -1,0 +1,27 @@
+img{
+    height: 350px;
+    width: 170px;
+}
+
+li{
+    color: green;
+    font: 25px bold;
+
+}
+
+.trip{
+    color: black;
+    text-transform: capitalize;
+    font: 45px  bold;
+}
+
+li[draggable]{
+    color: red;
+
+}
+
+#slip{
+    color: blue;
+    font: 79px bold;
+}
+
